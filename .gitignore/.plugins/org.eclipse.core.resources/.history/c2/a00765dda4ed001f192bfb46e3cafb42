@@ -1,0 +1,5 @@
+package jdbc.basic;
+
+public class JdbcUpdate {
+
+}
